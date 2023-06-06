@@ -15,7 +15,7 @@ Hardware:
 
 Remote application:
 
-![app](Project Pictures/Androind_Application.jpg)
+![app](Project_Pictures/Androind_Application.jpg)
 
 LCDs display:
 
