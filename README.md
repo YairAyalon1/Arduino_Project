@@ -7,7 +7,7 @@ The control and management system functions as intended. The sensors are providi
 
 Project set-up:
 
-![set-up](https://github.com/YairAyalon1/Arduino_Project)
+![set-up](Arduino_Project/Project Pictures/System Set-up.jpg)
 
 Hardware:
 
