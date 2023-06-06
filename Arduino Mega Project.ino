@@ -73,8 +73,8 @@ float Q12;
 // --------------------------------------------------------------------
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "YairIOS";
-char pass[] = "yair1234";
+char ssid[] = "SSID";
+char pass[] = "Password";
 
 // ESP8266 Definition --------
 #define EspSerial Serial1
