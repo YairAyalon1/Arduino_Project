@@ -7,7 +7,7 @@ The control and management system functions as intended. The sensors are providi
 
 Project set-up:
 
-![set-up](Arduino_Project/Project Pictures/System Set-up.jpg)
+![set-up](/Project Pictures/System Set-up.jpg)
 
 Hardware:
 
