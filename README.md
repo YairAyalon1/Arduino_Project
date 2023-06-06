@@ -7,11 +7,11 @@ The control and management system functions as intended. The sensors are providi
 
 Project set-up:
 
-![set-up](Project Pictures/System Set-up.jpg)
+![set-up](Project_Pictures/System_Set-up.jpg)
 
 Hardware:
 
-![hardware](Project Pictures/Hardware.jpeg)
+![hardware](Project_Pictures/Hardware_Integration.jpeg)
 
 Remote application:
 
@@ -19,9 +19,9 @@ Remote application:
 
 LCDs display:
 
-![LCD](Project Pictures/LCDs.png)
+![LCD](Project_Pictures/LCDs.png)
 
 Data-logger:
 
-![DL](Project Pictures/Data_Logger_Dark_Mode.png)
+![DL](Project_Pictures/Data_Logger.png)
 
